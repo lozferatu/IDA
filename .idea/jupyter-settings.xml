@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="2328357d36179690eeb99e7e4ad67c35265fcbb92db0dee6" />
+          <option name="urlString" value="http://127.0.0.1:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="2328357d36179690eeb99e7e4ad67c35265fcbb92db0dee6" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="a83d5bfab53dd292433d5454c0682b5c9c2afcc4f343950e" />
+          <option name="urlString" value="http://127.0.0.1:8889" />
+          <authParams2>
+            <map>
+              <entry key="token" value="a83d5bfab53dd292433d5454c0682b5c9c2afcc4f343950e" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/PyCharm IDA.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="2328357d36179690eeb99e7e4ad67c35265fcbb92db0dee6" />
+              <option name="urlString" value="http://127.0.0.1:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="2328357d36179690eeb99e7e4ad67c35265fcbb92db0dee6" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
