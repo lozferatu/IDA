@@ -1,0 +1,17 @@
+We recommend using conda to create an environment with the correct versions of all the packages you need for these labs. You can install either Anaconda or Miniconda, which will include the conda program.
+We provide a .yml file that lists all the packages you will need, and the versions that we have tested the labs with. You can use this file to create your environment as follows.
+Open a terminal. Use the command line to navigate to the directory containing this notebook and the file crossplatform_environment.yml. You can use the command cd to change directory on the command line.
+Run the conda program by typing conda env create -f crossplatform_environment.yml, then answer any questions that appear on the command line.
+Activate the environment by running the command conda activate data_analytics.
+Make kernel available in Jupyter: python -m ipykernel install --user --name=data_analytics.
+Relaunch Jupyter: shutdown any running instances, and then type jupyter lab or jupyter notebook into your command line, depending on whether you prefer the full Jupyter lab development environment, or the simpler Jupyter notebook.
+Find this notebook and open it up again.
+Go to the top menu and change the kernel: click on ‘Kernel’–> ‘Change kernel’ –> data_analytics.
+
+cd D:\GitHub\PyCharm IDA\intro-labs-public
+
+conda env create -f crossplatform_environment.yml
+
+conda activate data_analytics
+
+python -m ipykernel install --user --name=data_analytics
