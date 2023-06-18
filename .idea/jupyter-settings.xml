@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="092d01e36e064778f3fb9c367fb8dcbe8462892f06354765" />
+          <option name="urlString" value="http://127.0.0.1:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="092d01e36e064778f3fb9c367fb8dcbe8462892f06354765" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="a83d5bfab53dd292433d5454c0682b5c9c2afcc4f343950e" />
+          <option name="urlString" value="http://127.0.0.1:8889" />
+          <authParams2>
+            <map>
+              <entry key="token" value="a83d5bfab53dd292433d5454c0682b5c9c2afcc4f343950e" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="84ff557bba7323b9bfd639aa1cebb55a568fb20f6aa945d3" />
+          <option name="urlString" value="http://localhost:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="84ff557bba7323b9bfd639aa1cebb55a568fb20f6aa945d3" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/.idea/loz.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="local" value="true" />
+              <option name="token" value="00c27697fb4ef3fc5f168f58c33057c716c779e12a77af94" />
+              <option name="urlString" value="http://127.0.0.1:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="00c27697fb4ef3fc5f168f58c33057c716c779e12a77af94" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/intro-labs-public/.idea/intro-labs-public.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="84ff557bba7323b9bfd639aa1cebb55a568fb20f6aa945d3" />
+              <option name="urlString" value="http://localhost:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="84ff557bba7323b9bfd639aa1cebb55a568fb20f6aa945d3" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
