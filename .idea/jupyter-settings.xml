@@ -5,11 +5,12 @@
       <list>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
-          <option name="token" value="092d01e36e064778f3fb9c367fb8dcbe8462892f06354765" />
+          <option name="local" value="true" />
+          <option name="token" value="00c27697fb4ef3fc5f168f58c33057c716c779e12a77af94" />
           <option name="urlString" value="http://127.0.0.1:8888" />
           <authParams2>
             <map>
-              <entry key="token" value="092d01e36e064778f3fb9c367fb8dcbe8462892f06354765" />
+              <entry key="token" value="00c27697fb4ef3fc5f168f58c33057c716c779e12a77af94" />
             </map>
           </authParams2>
         </JupyterConnectionParameters>
